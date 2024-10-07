@@ -1,2 +1,2 @@
 # TADS037-BDII
-Repositório para a cadeira de banco de dados II na minha graduação de Análise e Desenvolvimento de Sistemas na Faculdade Senac PE
+Repositório criado para a disciplina de Banco de Dados II na minha graduação em Análise e Desenvolvimento de Sistemas na faculdade Senac PE
